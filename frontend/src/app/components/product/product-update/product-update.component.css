@@ -1,0 +1,25 @@
+.card-form {
+  background-color: #fff;
+  color: #000;
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  color: #000;
+}
+
+input {
+  border: 1px solid rgba(70, 70, 70, 0.5);
+  height: 35px;
+  width: 250px;
+  border-radius: 5px;
+  margin-left: 5px;
+  padding-left: 10px;
+}
+
+.btn-salve {
+  background-color: #B52E31;
+  margin-right: 5px;
+}
